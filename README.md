@@ -1,5 +1,5 @@
-# Software-Project-1-Assignment-
-1
+# Software-Project-1-Assignment-1
+
 #This is my assignment.
 ##  I learend
 * Repository initialization
