@@ -1,7 +1,7 @@
 # Software-Project-1-Assignment-1
 
 #This is my assignment.
-##  I learend
+##  I learned
 * Repository initialization
 * Adding files to git
 * Checking git status
